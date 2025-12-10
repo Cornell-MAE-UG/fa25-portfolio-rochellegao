@@ -2,7 +2,7 @@
 layout: project
 title: Torque Wrench Design
 description: Advanced CAD Project
-technologies: [Autodesk Fusion 360, ANSYS]
+technologies: [Autodesk Fusion, ANSYS]
 image: /assets/images/torque-wrench-cad.jpg
 ---
 
