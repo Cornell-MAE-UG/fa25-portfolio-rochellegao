@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Rochelle Gao> - Curriculum Vitae
+title: Rochelle Gao - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
