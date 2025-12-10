@@ -10,5 +10,5 @@ For a class named Mechanics of Engineering Materials, we were asked to improve t
 
 /assets/images/torque-wrench-dimensions.png
 
-A more detailed description of the analysis performed in ANSYS on the torque wrench in this pdf file: 
-/assets/pdf_files/torque-wrench-design-writeup.pdf
+A more detailed description of the analysis performed in ANSYS on the torque wrench in this google document:
+https://docs.google.com/document/d/1jfN2MUpKOGq5PmGWHt2rQjNcOFKq_Si4wCIIlRtg8Y0/edit?tab=t.0
